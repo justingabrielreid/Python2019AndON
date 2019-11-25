@@ -20,7 +20,7 @@ def main():
     #these need work. Not delaying enough
     print("Welcome to the compound interest tracker.")
     print()
-    print("This program will allow you to make predictions on how much is needed to be saved each year to amass five million. \n by the age of 57. \n This program will assume an annual return rate of 9.8%.")
+    print("This program will allow you to make predictions on how much is needed to be saved each month.")
     print()
     userName = input("Can I have your name? ")
     #Error check to ensure the input is valid. A string. 
